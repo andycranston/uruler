@@ -1,6 +1,6 @@
 # uruler
 
-A computer rack ruler to assist with installing equipment.
+A computer rack unit ruler to assist with installing equipment.
 
 Download the `uruler.png` image. Use a graphics viewer program to print it out.
 
