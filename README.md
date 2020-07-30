@@ -7,9 +7,9 @@ scale the image so when it prints out it is *exactly* ten and a half inches tall
 
 Now cut the image out and you have a `uruler`.
 
-Better still laminate the paper first before cutting - this will make it more durable.
+If you laminate the paper first before cutting this will make it more durable.
 
-I have also seen the uruler stuck onto the front cover of a hardbacked notebook.
+I have also seen the `uruler` stuck onto the front cover of a hardbacked notebook.
 
 For the really dedicated stick it to a slim piece of plywood that
 measures ten and a half inches tall by one and three quarter
@@ -23,8 +23,10 @@ Watch this 3 minute video for more details:
 
 ## No need to run any code
 
-The `uruler.png` image is ready to use. No need to run the `uruler.py` Python 3 program. It is included
-in the repositiory for anyone curious as to how the `uruler.png` image was created. Spoiler alert: the
+The `uruler.png` image is ready to use. No need to run the `uruler.py` Python 3 program.
+
+The `uruler.py` code is included
+in the repositiory just in case anyone is curious as to how the `uruler.png` image was created. Spoiler alert: the
 code isn't very pretty!
 
 ## Code details
@@ -47,15 +49,14 @@ could include:
 
 + Use a box drawing function that allows thickness to also be specified
 + Have a better way for the character bitmaps of the digits 1 through 6 to be represented
-+ Add useful some comments - please!
++ Add some comments!
 
 ## Please send me photos of your `uruler` creations
 
-Please send me photos:
+Finally please send me photos of your `uruler` creations to:
 
     andy [ at ] cranstonhub [ dot ] com
-    
-of your `uruler` creations.
+
 
 ---------------------------------------
 
