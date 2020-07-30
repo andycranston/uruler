@@ -2,7 +2,9 @@
 
 A computer rack ruler to assist with installing equipment.
 
-Download the `uruler.png` image. Use a graphics viewer program to print it out. You will need to
+Download the `uruler.png` image. Use a graphics viewer program to print it out.
+
+IMPORTANT! You will need to
 scale the image so when it prints out it is *exactly* ten and a half inches tall.
 
 Now cut the image out and you have a `uruler`.
@@ -41,7 +43,7 @@ pip install -U pillow
 
 will necessary if you do not have the Pillow module installed.
 
-The code is pretty rough and ready. It would make a good exercise for
+The code is pretty rough and ready. It would make a good exercise for an
 intermediate programmer to improve as part of a teaching class.
 
 The improvements you should expect students to suggest/implement
@@ -53,7 +55,7 @@ could include:
 
 ## Please send me photos of your `uruler` creations
 
-Finally please send me photos of your `uruler` creations to:
+Finally, please send me photos of your `uruler` creations to:
 
     andy [ at ] cranstonhub [ dot ] com
 
